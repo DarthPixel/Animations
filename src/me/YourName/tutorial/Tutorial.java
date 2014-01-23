@@ -14,6 +14,8 @@ import org.bukkit.inventory.meta.ItemMeta;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class Tutorial extends JavaPlugin implements Listener {
+	
+	// Useful Symbol: █
 
 	Inventory inv;
 	
